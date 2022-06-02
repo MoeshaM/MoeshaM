@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MoeshaM/MoeshaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Google Data Analytics Certificate.
 - 🌱 I’m currently learning Excel, Python, & Tableau. 
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am left handed and love to draw on Procreate.
--->
