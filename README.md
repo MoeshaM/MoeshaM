@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on Excel Projects.
 - 🤔 I’m looking for help with more programming langauges and easier ways to understand the process of being a Data Analyst.
 - 💬 Ask me about what I am studying mainly on and what should be my main objective in learning Data
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: she/her
+- 📫 How to reach me: ....[LinkedIn] (www.linkedin.com/in/moesha-manning-343a08a0)
+- - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am left handed and love to draw on Procreate.
